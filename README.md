@@ -80,6 +80,7 @@ Orders, cart, payments, modular services.
 
 [LinkedIn](https://linkedin.com/in/hassankashif1751)  
 [Email](mailto:iamhassan0315@gmail.com)
+[Upwork](https://www.upwork.com/freelancers/~019874363b6cf40ee3)
 
 ---
 
