@@ -44,10 +44,10 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanreact&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanreact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanreact&layout=compact&theme=tokyonight&hide_border=true" />
@@ -78,8 +78,8 @@ Orders, cart, payments, modular services.
 
 ## 🌍 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/hassankashif1751)  
-[Email](mailto:iamhassan0315@gmail.com)
+[LinkedIn](https://linkedin.com/in/hassankashif1751) 
+[Email](mailto:iamhassan0315@gmail.com) 
 [Upwork](https://www.upwork.com/freelancers/~019874363b6cf40ee3)
 
 ---
