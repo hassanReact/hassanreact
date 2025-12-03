@@ -63,14 +63,6 @@ I focus on:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hassanreact/hassanreact/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🚀 Highlighted Projects
 
 ### 🔐 **Authentication System — Next.js + Nest.js + Prisma**
